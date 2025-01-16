@@ -46,9 +46,9 @@ document.addEventListener("DOMContentLoaded", () => {
   
     // Sample Data
     const books = [
-      { id: 1, title: "The Great Gatsby", author: "F. Scott Fitzgerald", status: "Available" },
-      { id: 2, title: "1984", author: "George Orwell", status: "Available" },
-      { id: 3, title: "To Kill a Mockingbird", author: "Harper Lee", status: "Issued", issuedTo: "John Doe" },
+      { id: 1, title: "Java Advance", author: "Manisha Sharma", status: "Available" },
+      { id: 2, title: "Basic Of C Programming", author: "Jogamohan", status: "Available" },
+      { id: 3, title: "C++ Programming", author: "Xavier Martin", status: "Issued", issuedTo: "Pritesh" },
     ];
   
     // Render Available Books
@@ -124,8 +124,8 @@ document.addEventListener("DOMContentLoaded", () => {
   
     // Sample Data
     const users = [
-      { id: 1, name: "Alice Johnson", email: "alice@example.com" },
-      { id: 2, name: "Bob Smith", email: "bob@example.com" },
+      { id: 1, name: "Pritesh Kumar", email: "Pritesh31kumar@gmail.com" },
+      { id: 2, name: "Ram Kumar", email: "ramsita@gmail.com.com" },
     ];
   
     // Render Users
