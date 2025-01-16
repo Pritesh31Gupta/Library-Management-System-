@@ -1,0 +1,243 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  
+  header {
+    background-color: #77b83e;
+    color: #fff;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  header h1{
+    color: #fff;
+  }
+  
+  header nav a {
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  header nav a:hover {
+    text-decoration: underline;
+  }
+  
+  main {
+    padding: 0px;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  .welcome h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .welcome p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .features h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .features ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+  }
+  .boo .h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .boo .book{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 99vw;
+    height: 40px;
+    background-color: #77b83e;
+    
+  }
+  .cardcontainer1{
+    width:  200px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    
+    
+  }
+  .cardcontainer1 h2{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+  }
+
+  .cardcontainer2{
+    width:  200px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    
+  }
+  .cardcontainer2 h2{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+  }
+ .card{
+    width: 280px;
+    margin-bottom: 20px;
+    
+ }
+ .card img{
+    width: 100%;
+    object-fit: contain;
+    
+ }
+
+    
+    
+ 
+  
+
+
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  table, th, td {
+    border: 1px solid #ccc;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  form {
+    margin-top: 20px;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  table, th, td {
+    border: 1px solid #ccc;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  
+  table, th, td {
+    border: 1px solid #ccc;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  form {
+    margin: 20px 0;
+  }
+  
+  form input {
+    padding: 10px;
+    margin: 5px;
+    width: calc(50% - 20px);
+  }
+  
+  form button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: #0056b3;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #d9534f;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #c9302c;
+  }
+  
+
+
+
+
+
+
+  footer{
+    position: relative;
+  
+ }
+ p.foo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 99vw;
+    height: 55px;
+    background-color: #77b83e;
+ }
+ footer p{
+    position: absolute;
+    top: 350px;
+   
+ }
